@@ -16,8 +16,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/HugoLin-16/ios_prework/blob/main/Kapture%202023-08-24%20at%2016.48.48.gif))
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/HugoLin-16/ios_prework/blob/main/Kapture%202023-08-24%20at%2016.48.48.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *ios_prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Minghao Lin**
 
-**Name of your app** is an app that... [TODO] 
+**ios_prework** is an app with three text boxes and one bottom that can change the background color when pressed. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -23,13 +23,22 @@ Here's a walkthrough of implemented user stories:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Application:
+- Instagram
+  - vanish mode
+- Messenger
+  - change text box color
+- Gmail
+  - switch account easily
+ 
+I have some ideas about improving the existing WeChat app. I want to add a few features to the app such as people will be able to know if other people have read their messages and if other have unfriend them or not.
 
 ## Notes
 
